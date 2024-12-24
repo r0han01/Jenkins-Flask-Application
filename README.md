@@ -3,14 +3,14 @@
 This is a simple Flask web application that displays a "Hello from Jenkins!" message. The app is containerized using Docker and can be easily deployed in Jenkins pipelines.
 
 ## Project Structure
-`
+```
 project_folder/
 ├── app.py              # Flask application
 ├── Dockerfile          # Docker configuration
 ├── requirements.txt    # Python dependencies
 └── templates/          # HTML files
     └── index.html      # Main HTML file
-`
+```
 ## Getting Started
 
 ### 1. Clone the Repository
