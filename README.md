@@ -1,5 +1,7 @@
 # 🚀 Complex CI/CD Pipeline Implementation Using Jenkins: A Step-by-Step Guide
 
+![ScreenShot Tool -20241224122840](https://github.com/user-attachments/assets/e215aa68-a1f0-4545-b6a3-94a99151ed1c)
+
 This is a simple Flask web application that displays a "Hello from Jenkins!" message. The app is containerized using Docker and can be easily deployed in Jenkins pipelines.
 
 ## Project Structure
@@ -207,7 +209,7 @@ sudo systemctl restart jenkins
 - Click "Save and Finish" to complete the setup.
 
 You can now access Jenkins and start configuring jobs and pipelines as an administrator.
-
+![ScreenShot Tool -20241224080839](https://github.com/user-attachments/assets/208d241a-3375-4dd6-87d3-0a58adf2b86b)
 
 ### 1. Verify your local Jenkins image
 - Run the following command to check if the Jenkins image exists on your local system:
@@ -337,6 +339,8 @@ docker rm jenkins
 docker build -t jenkins .
 docker run --name jenkins -d -p 9000:9000 jenkins
 ```
+![ScreenShot Tool -20241224120613](https://github.com/user-attachments/assets/070ea2e0-d69e-4da7-a4e2-2261e7268372)
+
 - Save and Run:
 
 - Click Save to save your job.
