@@ -1,6 +1,6 @@
 # 🚀 Complex CI/CD Pipeline Implementation Using Jenkins: A Step-by-Step Guide
 
-![ScreenShot Tool -20241224122840](https://github.com/user-attachments/assets/e215aa68-a1f0-4545-b6a3-94a99151ed1c)
+![ScreenShot Tool -20241224124333](https://github.com/user-attachments/assets/d62ef271-0182-4c7d-98c4-ad8fd89dbe69)
 
 This is a simple Flask web application that displays a "Hello from Jenkins!" message. The app is containerized using Docker and can be easily deployed in Jenkins pipelines.
 
