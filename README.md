@@ -4,7 +4,12 @@ This is a simple Flask web application that displays a "Hello from Jenkins!" mes
 
 ## Project Structure
 `
-project_folder/ │ ├── app.py # Flask application ├── Dockerfile # Docker configuration ├── requirements.txt # Python dependencies └── templates/ └── index.html # HTML file
+project_folder/
+├── app.py              # Flask application
+├── Dockerfile          # Docker configuration
+├── requirements.txt    # Python dependencies
+└── templates/          # HTML files
+    └── index.html      # Main HTML file
 `
 ## Getting Started
 
