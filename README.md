@@ -16,8 +16,8 @@ project_folder/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/jenkins-flask-app.git
-cd jenkins-flask-app
+git clone https://github.com/r0han01/Jenkins-Flask-Application.git
+cd Jenkins-Flask-Application
 ```
 2. Build the Docker Image
 ```bash
